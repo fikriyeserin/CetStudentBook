@@ -11,4 +11,7 @@ How to Run
 1. Download the project to your computer
 2. Open the .sln file in Visual Studio.
 
-1. Ekran Görüntüleri
+Screenshots
+<img width="1920" height="1120" alt="Image" src="https://github.com/user-attachments/assets/6604cb9c-d74d-4b09-8336-f47113e02126" />
+<img width="1920" height="1120" alt="Image" src="https://github.com/user-attachments/assets/5b974049-01b5-4f81-8248-77fe71505d78" />
+<img width="1920" height="1100" alt="Image" src="https://github.com/user-attachments/assets/ee6062d6-b30e-4166-8939-de084a522a40" />
